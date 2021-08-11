@@ -1,5 +1,5 @@
 // Write your tests here!
-const caesar = require("../src/caesar");
+const {caesar} = require("../src/caesar");
 const expect = require("chai").expect;
 
 describe("caesar()", () => {
